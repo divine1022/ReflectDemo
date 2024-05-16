@@ -120,3 +120,4 @@
    由上述代码运行结果可知，反射可以访问和修改私有字段值，包括**final**字段
 
 ## 反射的应用实例
+可参考[代码](https://github.com/divine1022/ReflectDemo/tree/master/src)，该代码利用反射实现了依赖注入(DI)
